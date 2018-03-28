@@ -1,2 +1,7 @@
-# Python
-my python code
+# Python学习
+作为一个初学者，这里主要是Python学习是记录的一些代码
+
+纯小白！
+
+# 其他
+## 待开发内容
