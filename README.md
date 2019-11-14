@@ -1,5 +1,7 @@
 # Python学习
-作为一个初学者，这里主要是Python学习是记录的一些代码
+
+A newer to learn Python,
+mainly push my pravite python codes
 
 纯小白！
 
